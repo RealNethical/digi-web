@@ -1,0 +1,20 @@
+{
+   "comment_composer_parent": {
+      "description": "Blocks comments and description",
+      "isEnabled": false,
+      "title": "Block opening comments",
+      "viewId": "comment_comp oser_parent"
+   },
+   "reel_viewer_media_layout": {
+      "description": "Blocks  { stories",
+      "isEnabled": false,
+      "title": "Block opening stories",
+      "viewId": "reel_viewer_media_layout"
+   },
+   "root_clips_layout": {
+      "description": "Fuck shorts",
+      "isEnabled": false,
+      "title": "Block opening reels",
+      "viewId": "root_clips_layout"
+   }
+}
