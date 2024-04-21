@@ -1,0 +1,14 @@
+{
+  "reel_recycler": {
+    "description": "Prevent from opening shorts",
+    "isEnabled": false,
+    "title": "Block Shorts",
+    "viewId": "reel_recycler"
+  },
+  "engagement_panel_content": {
+    "description": "Blocks comments section and description",
+    "isEnabled": false,
+    "title": "Block Status Screen",
+    "viewId": "engagement_panel_content"
+  }
+}

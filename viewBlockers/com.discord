@@ -1,1 +1,0 @@
-{"conversation_layout":{"description":"Shows Chat list but prevents opening them","isEnabled":false,"title":"Block Opening Chats","viewId":"conversation_layout"},"status_container":{"description":"Shows status list but prevents opening them","isEnabled":false,"title":"Block Status Screen","viewId":"status_container"}}
