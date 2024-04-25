@@ -1,1 +1,20 @@
-{"conversation_layout":{"description":"Shows Chat list but prevents opening them","isEnabled":false,"title":"Block Opening Chats","viewId":"conversation_layout"},"status_container":{"description":"Shows status list but prevents opening them","isEnabled":false,"title":"Block Status Screen","viewId":"status_container"}}
+{
+  "reel_viewer_media_layout": {
+    "description": "",
+    "isEnabled": false,
+    "title": "Block stories",
+    "viewId": "reel_viewer_media_layout"
+  },
+  "root_clips_layout": {
+    "description": "",
+    "isEnabled": false,
+    "title": "Block reels",
+    "viewId": "root_clips_layout"
+  },
+  "comment_composer_parent": {
+    "description": "",
+    "isEnabled": false,
+    "title": "Block comments",
+    "viewId": "comment_composer_parent"
+  }
+}
