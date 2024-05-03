@@ -3,18 +3,21 @@
     "description": "",
     "isEnabled": false,
     "title": "Block stories",
-    "viewId": "reel_viewer_media_layout"
+   "viewId": "reel_viewer_media_layout",
+    "commonName": "Instagram Story"
   },
   "root_clips_layout": {
     "description": "",
     "isEnabled": false,
     "title": "Block reels",
-    "viewId": "root_clips_layout"
+    "viewId": "root_clips_layout",
+    "commonName": "Instagram reels"
   },
   "comment_composer_parent": {
     "description": "",
     "isEnabled": false,
     "title": "Block comments",
-    "viewId": "comment_composer_parent"
+    "viewId": "comment_composer_parent",
+    "commonName": "Instagram comments"
   }
 }
